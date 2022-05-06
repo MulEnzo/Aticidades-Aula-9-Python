@@ -1,0 +1,8 @@
+1000	capital inicial
+-500	compra de matérias-prima
+-200	mão de obra
+400	venda do primeiro lote
+300	venda do segundo lote
+-300	aluguel de fábrica
+99.99	putas dos jardins
+-100.0	Dar bom dia pro eduardo
