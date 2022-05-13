@@ -4,5 +4,3 @@
 400	venda do primeiro lote
 300	venda do segundo lote
 -300	aluguel da fábrica
-50.75	Compra Papel
--30.75	Compra de Arroz
