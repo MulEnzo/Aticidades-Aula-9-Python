@@ -1,10 +1,7 @@
-import os
-
-dir_raiz = 'nova pasta/'
-
-nomes_sub = os.listdir(dir_raiz)
-
-for nome in nomes_sub:
-    subdiretorio = os.path.join(dir_raiz, nome)
-    novo_subdiretorio = os.path.join(dir_raiz, nome.lower())
-    os.rename(subdiretorio, novo_subdiretorio)
+with open("arquivo.bin","rb") as arq:
+    linhas = arq.readlines()
+    nome = linhas[0].decode()
+    print("\nNome:", nome)
+    lista = list(linhas[1])
+    print("Lista:", lista)
+    print("\n")
